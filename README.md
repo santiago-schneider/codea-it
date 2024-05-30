@@ -1,6 +1,6 @@
 # Go API Challenge
 
-A simple Go application that uses SQLite for in-memory data storage and provides a RESTful API.
+A simple Go application that consumes an external API, uses SQLite for in-memory data storage and provides a RESTful API.
 
 ## Table of Contents
 
