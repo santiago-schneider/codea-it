@@ -1,4 +1,4 @@
-# My Go API Project
+# Go API Challenge
 
 A simple Go application that uses SQLite for in-memory data storage and provides a RESTful API.
 
